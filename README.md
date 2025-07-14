@@ -61,8 +61,10 @@ python remove_bg.py path/to/image.jpg
 ### 3. Build EXE
 
 ```bash
-pyinstaller remove_bg.spec
+pyinstaller --onefile remove_bg.py   
 ```
+It will create .exe file in dist folder 
+
 
 ### 4. Create Installer
 
