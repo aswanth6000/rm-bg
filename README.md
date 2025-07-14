@@ -68,7 +68,7 @@ It will create .exe file in dist folder
 
 ### 4. Create Installer
 
-Use [Inno Setup](https://jrsoftware.org/isinfo.php) and the provided `.iss` file.
+Use [Inno Setup](https://github.com/aswanth6000/RemoveBGInstaller) and the provided `.iss` file.
 
 ---
 
